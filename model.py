@@ -5,7 +5,7 @@ import pandas as pd
 import pickle
 
 #Load-Model
-classifier = pickle.load(open('/content/dtrmodel.pkl','rb'))
+classifier = pickle.load(open('dtrmodel.pkl','rb'))
 
 #Page-Design
 title = '<h2 style="font-family:arial; color:black; font-size: 47px;text-align:center;"><b>Pre-owned Car Price Prediction</b></h2>'
