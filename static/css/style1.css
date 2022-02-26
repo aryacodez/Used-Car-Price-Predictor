@@ -1,0 +1,86 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.bg{
+    background-color: #cfe0e8;
+    padding-bottom: 19%;
+}
+
+
+
+
+.container-fluid{
+    background-color: #92a8d1;
+}
+
+#major{
+    height: 38em;
+}
+
+h3{
+    padding-top: 1em;
+}
+
+#font1{
+    font-size: 75px;
+    letter-spacing: 3px;
+    font-weight: 700;
+    font-family: "Audiowide", sans-serif;
+    text-shadow: -5px 5px 9px rgba(45, 57, 181, 0.89);
+
+    -webkit-text-stroke-width: 2.3px;
+    -webkit-text-stroke-color: #ffffff;
+    -webkit-text-fill-color: #000000;
+}
+
+footer{
+    background-color: #0e5a8a;
+    color: wheat;
+    font-size:  16px;
+    position: sticky;
+
+}
+
+#font2{
+    margin-top: 20px;
+    font-size: 40px;
+    letter-spacing: 3px;
+    font-weight: 700;
+    font-family: 'EB Garamond', serif;
+    
+}
+
+#para2{
+    margin-top: 1em;
+    font-size: 23px;
+    font-family: 'EB Garamond', serif;
+    padding-bottom: -25px;
+}
+
+hr{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,0.9867297260701156) 0%, rgba(198,199,199,1) 11%, rgba(175,176,176,1) 21%, rgba(139,140,140,1) 38%, rgba(123,127,131,1) 50%, rgba(123,126,129,0.9587185215883228) 63%, rgba(154,154,159,1) 73%, rgba(183,183,184,1) 88%, rgba(255,255,255,0.9699230033810399) 100%);
+}
+
+#hr1{
+    height: 2px;
+}
+
+#para1{
+    font-size:19px;
+    color: slategray;
+    
+    -webkit-text-stroke-width: 0.5px;
+    -webkit-text-stroke-color: Black;
+    
+}
+
+a{
+    font-size: 18px;
+}
+
+a:hover{
+    font-weight: bolder;
+}
+
